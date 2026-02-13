@@ -1,0 +1,7 @@
+{
+  "name": "StoryPrint - AI Photo Book Creator",
+  "description": "A modern, mobile-first photo book editor and ordering platform with AI-powered captions and seamless POD integration simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
